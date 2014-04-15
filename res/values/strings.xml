@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">DingCan</string>
+    <string-array name="action_array">
+        <item>登录</item>
+        <item>选座</item>
+        <item>点餐</item>
+        <item>设置</item>
+        <item>关于</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_checkout">结账</string>
+    <string name="login_username">用户名</string>
+    <string name="login_password">密码</string>
+    <string name="notes">备注</string>
+    <string name="number">0</string>
+</resources>
